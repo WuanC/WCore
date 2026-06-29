@@ -1,7 +1,7 @@
 {
-  "name": "com.wuan.wframework",
+  "name": "com.wuan.wcore",
   "version": "1.0.0",
-  "displayName": "WFramework",
+  "displayName": "WCore",
   "unity": "2022.3",
   "author": {
     "name": "Wuan"
